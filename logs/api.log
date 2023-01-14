@@ -1,0 +1,4 @@
+2023-01-14 15:45:28 [main] INFO  c.s.app.Shapify.ShapifyApplication - Starting ShapifyApplication using Java 17.0.5 with PID 15152 (C:\Users\jaija\Desktop\aakash_java_project\Shapify\target\classes started by jaija in C:\Users\jaija\Desktop\aakash_java_project\Shapify)
+2023-01-14 15:45:28 [main] INFO  c.s.app.Shapify.ShapifyApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-14 15:45:31 [main] INFO  c.s.app.Shapify.ShapifyApplication - Started ShapifyApplication in 4.498 seconds (process running for 5.71)
+2023-01-14 15:45:37 [http-nio-8080-exec-2] INFO  c.s.a.S.controller.ShapeController - Hello
